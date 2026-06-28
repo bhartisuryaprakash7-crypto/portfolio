@@ -3,14 +3,14 @@ export const profile = {
   title:      'Full Stack Developer',
   subtitle:   'I craft fast, beautiful digital products with clean code & creative thinking.',
   location:   'Gorakhpur, India',
-  email:      'Gopal@example.com',
+  email:      'mggopal21@gmail.com',
   phone:      '+91 70804 93890',
   photo:      '/profile.png',
-  resumeUrl:  '/Rahul-Sharma-Resume.pdf',
+  resumeUrl:  '/resume.png',
   available:  true,
   social: [
-    { label: 'GitHub',   url: 'https://github.com/yourusername',       icon: 'FaGithub'   },
-    { label: 'LinkedIn', url: 'https://linkedin.com/in/yourusername',  icon: 'FaLinkedin' },
+    { label: 'GitHub',   url: 'https://github.com/mrgopal21',       icon: 'FaGithub'   },
+    { label: 'LinkedIn', url: ' https://www.linkedin.com/in/gopalgond?utm_source=share_via&utm_content=profile&utm_medium=member_android',  icon: 'FaLinkedin' },
     { label: 'Twitter',  url: 'https://twitter.com/yourusername',      icon: 'FaTwitter'  },
   ],
 }
