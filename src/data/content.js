@@ -56,12 +56,12 @@ export const skills = [
 export const projects = [
   {
     id: 1,
-    title:       'E-Commerce Platform',
-    description: 'Full-stack shopping platform with real-time inventory, payment gateway, and admin dashboard built for 10,000+ daily users.',
+    title:       'EventSphere – College Event Management System',
+    description: 'EventSphere is a modern web-based College Event Management System designed to simplify the planning, organization, and management of college events. It provides a centralized platform where students can discover and register for events, while organizers can create, manage, and monitor events efficiently. The system digitizes the entire event lifecycle, from event creation and registration to attendance tracking and participant management, reducing manual work and improving communication across the campus.',
     tech:      ['React','Node.js','MongoDB','Stripe'],
     gradient:  'from-purple-600 to-violet-500',
     year:      '2025',
-    live:      'https://example.com',
+    live:      'https://eventsphere-roan.vercel.app/https://example.com',
     github:    'https://github.com/example',
     featured:   true,
   },
