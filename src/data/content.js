@@ -1,7 +1,7 @@
 export const profile = {
   name:       'Gopal Kumar',
-  title:      'Full Stack Developer',
-  subtitle:   'I craft fast, beautiful digital products with clean code & creative thinking.',
+  title:      'Tech Entrepreneur & Software Engineer',
+  subtitle:   'Building scalable digital solutions from the ground up. Specialized in architecture (Java/Python/DBMS) and immersive web systems. Blending technical engineering with a founder’s mindset to solve real-world problems',
   location:   'Gorakhpur, India',
   email:      'mggopal21@gmail.com',
   phone:      '+91 70804 93890',
