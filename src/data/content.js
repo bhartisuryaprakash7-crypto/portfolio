@@ -61,7 +61,7 @@ export const projects = [
     tech:      ['React','Node.js','MongoDB','Stripe'],
     gradient:  'from-purple-600 to-violet-500',
     year:      '2025',
-    live:      'https://eventsphere-roan.vercel.app/https://example.com',
+    live:      'https://eventsphere-roan.vercel.app/',
     github:    'https://github.com/example',
     featured:   true,
   },
